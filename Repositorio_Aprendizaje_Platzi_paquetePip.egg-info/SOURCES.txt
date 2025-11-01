@@ -1,0 +1,6 @@
+README.md
+setup.py
+Repositorio_Aprendizaje_Platzi_paquetePip.egg-info/PKG-INFO
+Repositorio_Aprendizaje_Platzi_paquetePip.egg-info/SOURCES.txt
+Repositorio_Aprendizaje_Platzi_paquetePip.egg-info/dependency_links.txt
+Repositorio_Aprendizaje_Platzi_paquetePip.egg-info/top_level.txt
